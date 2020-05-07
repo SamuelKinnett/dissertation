@@ -1,0 +1,5 @@
+RowNum,Session Id,Game Id,Balance Value,Team Balance Value,Red Team K/D Ratio,Blue Team K/D Ratio,The red team,Neither team,The blue team,The red team,Neither team,The blue team,Yes,Unsure,No
+1,5,18,0.6638889,0.9803922,0.9615384,1.04,4,2,0,0,6,0,3,1,2
+2,5,21,0.7793651,0.9690722,0.94,1.06383,2,4,0,0,6,0,6,0,0
+3,5,22,0.102381,0.84375,0.7297297,1.37037,0,1,5,0,6,0,4,2,0
+4,5,23,0.7642857,0.969697,0.9411765,1.0625,0,4,2,1,3,2,5,1,0

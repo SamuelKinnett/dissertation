@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="59cm" height="26cm" viewBox="38 -2 1164 517" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <polygon style="fill: #e5e5e5" points="120,400 160,380 200,400 160,420 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="120,400 160,380 200,400 160,420 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="120,400 160,420 160,460 120,440 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="120,400 160,420 160,460 120,440 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="160,420 200,400 200,440 160,460 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="160,420 200,400 200,440 160,460 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="40,380 50,370 70,370 80,380 80,440 70,450 50,450 40,440 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="40,380 50,370 70,370 80,380 80,440 70,450 50,450 40,440 "/>
+  </g>
+  <g>
+    <polygon style="fill: #e5e5e5" points="240,360 280,340 320,360 280,380 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="240,360 280,340 320,360 280,380 "/>
+  </g>
+  <g>
+    <polygon style="fill: #e5e5e5" points="280,380 320,360 360,380 320,400 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="280,380 320,360 360,380 320,400 "/>
+  </g>
+  <g>
+    <polygon style="fill: #e5e5e5" points="280,340 320,320 360,340 320,360 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="280,340 320,320 360,340 320,360 "/>
+  </g>
+  <g>
+    <polygon style="fill: #e5e5e5" points="320,360 360,340 400,360 360,380 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="320,360 360,340 400,360 360,380 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="240,360 280,380 280,420 240,400 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="240,360 280,380 280,420 240,400 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="240,400 280,420 280,460 240,440 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="240,400 280,420 280,460 240,440 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="280,380 320,400 320,440 280,420 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="280,380 320,400 320,440 280,420 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="280,420 320,440 320,480 280,460 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="280,420 320,440 320,480 280,460 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="320,400 360,380 360,420 320,440 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="320,400 360,380 360,420 320,440 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="320,440 360,420 360,460 320,480 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="320,440 360,420 360,460 320,480 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="360,380 400,360 400,400 360,420 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="360,380 400,360 400,400 360,420 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="360,420 400,400 400,440 360,460 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="360,420 400,400 400,440 360,460 "/>
+  </g>
+  <g>
+    <polygon style="fill: #e5e5e5" points="40,390 40,380 50,370 70,370 52,374 44,382 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2.35099e-037; stroke: #000000" points="40,390 40,380 50,370 70,370 52,374 44,382 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="80,380 80,440 70,450 50,450 46,446 62,446 70,440 76,400 76,376 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2.35099e-037; stroke: #000000" points="80,380 80,440 70,450 50,450 46,446 62,446 70,440 76,400 76,376 "/>
+  </g>
+  <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="40,380 50,370 70,370 80,380 80,440 70,450 50,450 40,440 "/>
+  <g>
+    <polygon style="fill: #bfbfbf" points="440,360 480,380 480,420 440,400 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="440,360 480,380 480,420 440,400 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="440,400 480,420 480,460 440,440 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="440,400 480,420 480,460 440,440 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="440,280 480,300 480,340 440,320 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="440,280 480,300 480,340 440,320 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="440,320 480,340 480,380 440,360 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="440,320 480,340 480,380 440,360 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="440,200 480,220 480,260 440,240 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="440,200 480,220 480,260 440,240 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="440,240 480,260 480,300 440,280 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="440,240 480,260 480,300 440,280 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="440,120 480,140 480,180 440,160 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="440,120 480,140 480,180 440,160 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="440,160 480,180 480,220 440,200 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="440,160 480,180 480,220 440,200 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="440,40 480,60 480,100 440,80 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="440,40 480,60 480,100 440,80 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="440,80 480,100 480,140 440,120 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="440,80 480,100 480,140 440,120 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="480,380 520,400 520,440 480,420 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="480,380 520,400 520,440 480,420 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="480,420 520,440 520,480 480,460 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="480,420 520,440 520,480 480,460 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="480,300 520,320 520,360 480,340 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="480,300 520,320 520,360 480,340 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="480,340 520,360 520,400 480,380 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="480,340 520,360 520,400 480,380 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="480,220 520,240 520,280 480,260 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="480,220 520,240 520,280 480,260 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="480,260 520,280 520,320 480,300 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="480,260 520,280 520,320 480,300 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="480,140 520,160 520,200 480,180 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="480,140 520,160 520,200 480,180 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="480,180 520,200 520,240 480,220 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="480,180 520,200 520,240 480,220 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="480,60 520,80 520,120 480,100 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="480,60 520,80 520,120 480,100 "/>
+  </g>
+  <g>
+    <polygon style="fill: #bfbfbf" points="480,100 520,120 520,160 480,140 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="480,100 520,120 520,160 480,140 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="520,400 560,380 560,420 520,440 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="520,400 560,380 560,420 520,440 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="520,440 560,420 560,460 520,480 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="520,440 560,420 560,460 520,480 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="520,320 560,300 560,340 520,360 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="520,320 560,300 560,340 520,360 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="520,360 560,340 560,380 520,400 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="520,360 560,340 560,380 520,400 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="520,240 560,220 560,260 520,280 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="520,240 560,220 560,260 520,280 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="520,280 560,260 560,300 520,320 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="520,280 560,260 560,300 520,320 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="520,160 560,140 560,180 520,200 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="520,160 560,140 560,180 520,200 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="520,200 560,180 560,220 520,240 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="520,200 560,180 560,220 520,240 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="520,80 560,60 560,100 520,120 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="520,80 560,60 560,100 520,120 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="520,120 560,100 560,140 520,160 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="520,120 560,100 560,140 520,160 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="560,380 600,360 600,400 560,420 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="560,380 600,360 600,400 560,420 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="560,420 600,400 600,440 560,460 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="560,420 600,400 600,440 560,460 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="560,300 600,280 600,320 560,340 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="560,300 600,280 600,320 560,340 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="560,340 600,320 600,360 560,380 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="560,340 600,320 600,360 560,380 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="560,220 600,200 600,240 560,260 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="560,220 600,200 600,240 560,260 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="560,260 600,240 600,280 560,300 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="560,260 600,240 600,280 560,300 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="560,140 600,120 600,160 560,180 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="560,140 600,120 600,160 560,180 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="560,180 600,160 600,200 560,220 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="560,180 600,160 600,200 560,220 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="560,60 600,40 600,80 560,100 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="560,60 600,40 600,80 560,100 "/>
+  </g>
+  <g>
+    <polygon style="fill: #4d4d4d" points="560,100 600,80 600,120 560,140 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="560,100 600,80 600,120 560,140 "/>
+  </g>
+  <g>
+    <polygon style="fill: #e5e5e5" points="440,40 480,20 520,40 480,60 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="440,40 480,20 520,40 480,60 "/>
+  </g>
+  <g>
+    <polygon style="fill: #e5e5e5" points="480,60 520,40 560,60 520,80 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="480,60 520,40 560,60 520,80 "/>
+  </g>
+  <g>
+    <polygon style="fill: #e5e5e5" points="480,20 520,0 560,20 520,40 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="480,20 520,0 560,20 520,40 "/>
+  </g>
+  <g>
+    <polygon style="fill: #e5e5e5" points="520,40 560,20 600,40 560,60 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="520,40 560,20 600,40 560,60 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ff9a9a" points="640,360 680,340 720,360 680,380 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="640,360 680,340 720,360 680,380 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ff9a9a" points="680,380 720,360 760,380 720,400 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="680,380 720,360 760,380 720,400 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ff9a9a" points="680,340 720,320 760,340 720,360 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="680,340 720,320 760,340 720,360 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ff9a9a" points="720,360 760,340 800,360 760,380 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="720,360 760,340 800,360 760,380 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ff0000" points="640,360 680,380 680,420 640,400 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="640,360 680,380 680,420 640,400 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ff0000" points="640,400 680,420 680,460 640,440 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="640,400 680,420 680,460 640,440 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ff0000" points="680,380 720,400 720,440 680,420 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="680,380 720,400 720,440 680,420 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ff0000" points="680,420 720,440 720,480 680,460 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="680,420 720,440 720,480 680,460 "/>
+  </g>
+  <g>
+    <polygon style="fill: #a52a2a" points="720,400 760,380 760,420 720,440 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="720,400 760,380 760,420 720,440 "/>
+  </g>
+  <g>
+    <polygon style="fill: #a52a2a" points="720,440 760,420 760,460 720,480 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="720,440 760,420 760,460 720,480 "/>
+  </g>
+  <g>
+    <polygon style="fill: #a52a2a" points="760,380 800,360 800,400 760,420 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="760,380 800,360 800,400 760,420 "/>
+  </g>
+  <g>
+    <polygon style="fill: #a52a2a" points="760,420 800,400 800,440 760,460 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="760,420 800,400 800,440 760,460 "/>
+  </g>
+  <g>
+    <polygon style="fill: #add8e6" points="840,360 880,340 920,360 880,380 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="840,360 880,340 920,360 880,380 "/>
+  </g>
+  <g>
+    <polygon style="fill: #add8e6" points="880,380 920,360 960,380 920,400 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="880,380 920,360 960,380 920,400 "/>
+  </g>
+  <g>
+    <polygon style="fill: #add8e6" points="880,340 920,320 960,340 920,360 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="880,340 920,320 960,340 920,360 "/>
+  </g>
+  <g>
+    <polygon style="fill: #add8e6" points="920,360 960,340 1000,360 960,380 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="920,360 960,340 1000,360 960,380 "/>
+  </g>
+  <g>
+    <polygon style="fill: #6995a4" points="840,360 880,380 880,420 840,400 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="840,360 880,380 880,420 840,400 "/>
+  </g>
+  <g>
+    <polygon style="fill: #6995a4" points="840,400 880,420 880,460 840,440 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="840,400 880,420 880,460 840,440 "/>
+  </g>
+  <g>
+    <polygon style="fill: #6995a4" points="880,380 920,400 920,440 880,420 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="880,380 920,400 920,440 880,420 "/>
+  </g>
+  <g>
+    <polygon style="fill: #6995a4" points="880,420 920,440 920,480 880,460 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="880,420 920,440 920,480 880,460 "/>
+  </g>
+  <g>
+    <polygon style="fill: #35454b" points="920,400 960,380 960,420 920,440 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="920,400 960,380 960,420 920,440 "/>
+  </g>
+  <g>
+    <polygon style="fill: #35454b" points="920,440 960,420 960,460 920,480 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="920,440 960,420 960,460 920,480 "/>
+  </g>
+  <g>
+    <polygon style="fill: #35454b" points="960,380 1000,360 1000,400 960,420 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="960,380 1000,360 1000,400 960,420 "/>
+  </g>
+  <g>
+    <polygon style="fill: #35454b" points="960,420 1000,400 1000,440 960,460 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="960,420 1000,400 1000,440 960,460 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ce8ff5" points="1040,360 1080,340 1120,360 1080,380 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1040,360 1080,340 1120,360 1080,380 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ce8ff5" points="1080,380 1120,360 1160,380 1120,400 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1080,380 1120,360 1160,380 1120,400 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ce8ff5" points="1080,340 1120,320 1160,340 1120,360 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1080,340 1120,320 1160,340 1120,360 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ce8ff5" points="1120,360 1160,340 1200,360 1160,380 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1120,360 1160,340 1200,360 1160,380 "/>
+  </g>
+  <g>
+    <polygon style="fill: #be66f5" points="1040,360 1080,380 1080,420 1040,400 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1040,360 1080,380 1080,420 1040,400 "/>
+  </g>
+  <g>
+    <polygon style="fill: #be66f5" points="1040,400 1080,420 1080,460 1040,440 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1040,400 1080,420 1080,460 1040,440 "/>
+  </g>
+  <g>
+    <polygon style="fill: #be66f5" points="1080,380 1120,400 1120,440 1080,420 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1080,380 1120,400 1120,440 1080,420 "/>
+  </g>
+  <g>
+    <polygon style="fill: #be66f5" points="1080,420 1120,440 1120,480 1080,460 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1080,420 1120,440 1120,480 1080,460 "/>
+  </g>
+  <g>
+    <polygon style="fill: #722b9e" points="1120,400 1160,380 1160,420 1120,440 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1120,400 1160,380 1160,420 1120,440 "/>
+  </g>
+  <g>
+    <polygon style="fill: #722b9e" points="1120,440 1160,420 1160,460 1120,480 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1120,440 1160,420 1160,460 1120,480 "/>
+  </g>
+  <g>
+    <polygon style="fill: #722b9e" points="1160,380 1200,360 1200,400 1160,420 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1160,380 1200,360 1200,400 1160,420 "/>
+  </g>
+  <g>
+    <polygon style="fill: #722b9e" points="1160,420 1200,400 1200,440 1160,460 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1160,420 1200,400 1200,440 1160,460 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="60" y="511.9">
+    <tspan x="60" y="511.9">Player</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="160" y="511.9">
+    <tspan x="160" y="511.9">Cube</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="320" y="511.9">
+    <tspan x="320" y="511.9">TileType.Passable</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="520" y="511.9">
+    <tspan x="520" y="511.9">TileType.Impassable</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="720" y="511.9">
+    <tspan x="720" y="511.9">TileType.Team1Spawn</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="920" y="511.9">
+    <tspan x="920" y="511.9">TileType.Team2Spawn</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1120" y="511.9">
+    <tspan x="1120" y="511.9">TileType.CapturePoint</tspan>
+  </text>
+</svg>

@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="20cm" height="10cm" viewBox="39 39 382 184" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="40" y="40" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="40" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="60" y="40" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="60" y="40" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="80" y="40" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="80" y="40" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="100" y="40" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="100" y="40" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="120" y="40" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="120" y="40" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="140" y="40" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140" y="40" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="160" y="40" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="160" y="40" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="180" y="40" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="180" y="40" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="40" y="60" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="60" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="80" y="80" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="80" y="80" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="80" y="60" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="80" y="60" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="100" y="60" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="100" y="60" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="120" y="60" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="120" y="60" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="140" y="60" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="140" y="60" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="160" y="60" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="160" y="60" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="180" y="60" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="180" y="60" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="40" y="80" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="80" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="60" y="80" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="60" y="80" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #cc6666" x="80" y="80" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #a54242" x="80" y="80" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="100" y="80" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="100" y="80" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="120" y="80" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="120" y="80" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="140" y="80" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="140" y="80" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="160" y="80" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="160" y="80" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="180" y="80" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="180" y="80" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="40" y="100" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="100" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="60" y="100" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="60" y="100" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="80" y="100" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="80" y="100" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="100" y="100" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="100" y="100" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="120" y="100" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="120" y="100" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="140" y="100" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="140" y="100" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="160" y="100" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="160" y="100" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="180" y="100" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="180" y="100" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="40" y="120" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="120" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="60" y="120" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="60" y="120" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="80" y="120" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="80" y="120" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="100" y="120" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="100" y="120" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="120" y="120" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="120" y="120" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="140" y="120" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140" y="120" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="160" y="120" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="160" y="120" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="180" y="120" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="180" y="120" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="40" y="140" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="140" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="60" y="140" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="60" y="140" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="80" y="140" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="80" y="140" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="100" y="140" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="100" y="140" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="120" y="140" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="120" y="140" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="140" y="140" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140" y="140" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="160" y="140" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="160" y="140" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="180" y="140" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="180" y="140" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="40" y="160" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="160" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="60" y="160" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="60" y="160" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="80" y="160" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="80" y="160" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="100" y="160" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="100" y="160" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="120" y="160" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="120" y="160" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="140" y="160" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140" y="160" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="160" y="160" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="160" y="160" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="180" y="160" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="180" y="160" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="40" y="180" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="180" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="60" y="180" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="60" y="180" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="80" y="180" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="80" y="180" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="100" y="180" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="100" y="180" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="120" y="180" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="120" y="180" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="140" y="180" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140" y="180" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="160" y="180" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="160" y="180" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="180" y="180" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="180" y="180" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="260" y="40" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="260" y="40" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="280" y="40" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="280" y="40" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="300" y="40" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="300" y="40" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="320" y="40" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="320" y="40" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="340" y="40" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="340" y="40" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="360" y="40" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360" y="40" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="380" y="40" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="40" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="400" y="40" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="400" y="40" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="260" y="60" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="260" y="60" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="280" y="60" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="280" y="60" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="300" y="60" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="300" y="60" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="320" y="60" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="320" y="60" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="340" y="60" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="340" y="60" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="360" y="60" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360" y="60" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="380" y="60" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="60" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="400" y="60" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="400" y="60" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="260" y="80" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="260" y="80" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="280" y="80" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="280" y="80" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="300" y="80" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="300" y="80" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="320" y="80" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="320" y="80" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="340" y="80" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="340" y="80" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="360" y="80" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360" y="80" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="380" y="80" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="80" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="400" y="80" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="400" y="80" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="260" y="100" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="260" y="100" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="280" y="100" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="280" y="100" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="300" y="100" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="300" y="100" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="320" y="100" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="320" y="100" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="340" y="100" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="340" y="100" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="360" y="100" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360" y="100" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="380" y="100" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="100" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="400" y="100" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="400" y="100" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="260" y="120" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="260" y="120" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="280" y="120" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="280" y="120" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="300" y="120" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="300" y="120" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="320" y="120" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="320" y="120" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="340" y="120" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="340" y="120" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="360" y="120" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360" y="120" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="380" y="120" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="120" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="400" y="120" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="400" y="120" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="260" y="140" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="260" y="140" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="280" y="140" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="280" y="140" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="300" y="140" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="300" y="140" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="320" y="140" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="320" y="140" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="340" y="140" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="340" y="140" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="360" y="140" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360" y="140" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="380" y="140" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="140" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="400" y="140" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="400" y="140" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="260" y="160" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="260" y="160" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="280" y="160" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="280" y="160" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="300" y="160" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="300" y="160" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="320" y="160" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="320" y="160" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="340" y="160" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="340" y="160" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="360" y="160" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360" y="160" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="380" y="160" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="160" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="400" y="160" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="400" y="160" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="260" y="180" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="260" y="180" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="280" y="180" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="280" y="180" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #cc6666" x="300" y="180" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #a54242" x="300" y="180" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #b5bd68" x="320" y="180" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #8c9440" x="320" y="180" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="340" y="180" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="340" y="180" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="360" y="180" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360" y="180" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="380" y="180" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="380" y="180" width="20" height="20"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="400" y="180" width="20" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="400" y="180" width="20" height="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:oblique;font-weight:normal" x="120" y="220">
+    <tspan x="120" y="220">Corridor &lt;2, 5, 5&gt;</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:oblique;font-weight:normal" x="340" y="220">
+    <tspan x="340" y="220">Corridor &lt;2, 0, -7&gt;</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="340" y="220">
+    <tspan x="340" y="220"></tspan>
+  </text>
+</svg>
